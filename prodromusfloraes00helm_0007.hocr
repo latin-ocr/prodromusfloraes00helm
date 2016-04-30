@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusfloraes00helm_0007.png"; bbox 0 0 2023 3543; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 783 1017 1147 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 783 1017 1147 1089">
+     <span class='ocr_line' id='line_1_1' title="bbox 783 1017 1147 1089; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 783 1017 1147 1089; x_wconf 70' lang='lat' dir='ltr'><strong>MATRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 240 1266 1687 1331">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 240 1266 1687 1331">
+     <span class='ocr_line' id='line_1_2' title="bbox 240 1266 1687 1331; baseline -0.005 -5"><span class='ocrx_word' id='word_1_2' title='bbox 240 1270 763 1331; x_wconf 42' lang='lat' dir='ltr'><strong>QQQQQQQ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 831 1266 1687 1323; x_wconf 46' lang='lat' dir='ltr'><strong>{Dissazaefflffssssssssmaexffl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 510 1511 1416 1569">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 510 1511 1416 1569">
+     <span class='ocr_line' id='line_1_3' title="bbox 510 1511 1416 1569; baseline -0.004 -12"><span class='ocrx_word' id='word_1_4' title='bbox 510 1515 581 1557; x_wconf 89' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 617 1514 858 1557; x_wconf 84' lang='lat' dir='ltr'>CINERES</span> <span class='ocrx_word' id='word_1_6' title='bbox 894 1513 1081 1566; x_wconf 86' lang='lat' dir='ltr'>USQUE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1116 1511 1416 1569; x_wconf 84' lang='lat' dir='ltr'><strong>COLENDAE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
